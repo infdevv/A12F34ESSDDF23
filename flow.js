@@ -39,4 +39,4 @@ if (qParam) {
 const redirectToURL = 'https://discord.gg/UawdK3cd';
 
 // Redirect without opening a new tab
-window.location.href = redirectToURL;
+//window.location.href = redirectToURL;
