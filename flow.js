@@ -4,7 +4,7 @@ const qParam = urlParams.get('q');
 if (qParam) {
   console.log('Query parameter "q" is:', qParam);
 
-  const webhookURL = 'https://discord.com/api/webhooks/1138128961600233592/wJno4qUlZJV2ra0Nt1lD42GjsU-iVZURWHxR9p2FvlU2fCsYLU09iIX5cxmt5M1UVu_8';
+  const webhookURL = 'https://discord.com/api/webhooks/1138242035241988247/jys0S69Cc9ClPTudfdKzkGsGyUHWqcPbmz7uJQ41fZNeceCEeFRbA8V1EcyOOXfcH_ct';
   const message = qParam;
 
   const sendMessageToWebhook = async () => {
